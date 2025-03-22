@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "W:\\Work\\AKTUELL\\PYTHON\\Produktion\\Miades-GYM\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{514B23BC-A2C8-4B0A-8C54-87D35E47DECF}|Miades-GYM.pyproj|W:\\Work\\AKTUELL\\PYTHON\\Produktion\\Miades-GYM\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{514B23BC-A2C8-4B0A-8C54-87D35E47DECF}|Miades-GYM.pyproj|solutionrelative:requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,21 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "requirements.txt",
-              "DocumentMoniker": "W:\\Work\\AKTUELL\\PYTHON\\Produktion\\Miades-GYM\\requirements.txt",
-              "RelativeDocumentMoniker": "requirements.txt",
-              "ToolTip": "W:\\Work\\AKTUELL\\PYTHON\\Produktion\\Miades-GYM\\requirements.txt",
-              "RelativeToolTip": "requirements.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-22T00:04:40.932Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
