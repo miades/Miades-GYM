@@ -584,9 +584,10 @@
     <Content Include="package.json" />
     <Content Include="pyproject.toml" />
     <Content Include="README.md" />
-    <Content Include="requirements.txt" />
+    <Content Include="requirements_standard.txt" />
     <Content Include="requirements_dev.txt" />
     <Content Include="requirements_docker.txt" />
+    <Content Include="requirements.txt" />
     <Content Include="requirements_prod.txt" />
     <Content Include="SECURITY.md" />
     <Content Include="wger\config\fixtures\gym_config.json" />
