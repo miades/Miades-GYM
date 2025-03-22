@@ -567,7 +567,6 @@
     <Compile Include="wger\weight\views.py" />
     <Compile Include="wger\weight\__init__.py" />
     <Compile Include="wger\__init__.py" />
-    <Compile Include="wger\settings.py" />
     <Compile Include="wger\urls.py" />
     <Compile Include="wger\wsgi.py" />
     <Compile Include="wger\__main__.py" />
